@@ -36,8 +36,3 @@ mvn spring-boot:run
 
 O app vai rodar nesse endereço <http://localhost:8080/v1/api>.
 
-## Explore as APIs
-
-Explore a API utilizando o Swagger <http://localhost:8080/v1/api/swagger-ui.html#/>
-
-Você também pode testar as APIs utilizando o Postman
